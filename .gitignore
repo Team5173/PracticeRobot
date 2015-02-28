@@ -57,3 +57,5 @@ Temporary Items
 # Metadata
 *.aliases
 *.lvlps
+RT CompactRIO Target/FRC Robot Boot-up Deployment/c/ni-rt/startup/startup.rtexe
+*.rtexe
